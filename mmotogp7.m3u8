@@ -6,5 +6,4 @@
 #EXT-X-DISCONTINUITY-SEQUENCE:2
 #EXT-X-ALLOW-CACHE:NO
 #EXTINF:1,
-http://islacam.live:8080/live/7c%3A0a%3A3f%3Ada%3A7f%3A0a/a3fCQ2y/8fe44f1b-71f3-474e-a88a-28c45c43f2a3.ts
-#http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=297670&extension=ts&play_token=ig2j8sgWPj
+http://103.172.71.153:9981/stream/channelid/2040670210?profile=pass
